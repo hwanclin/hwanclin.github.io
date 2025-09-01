@@ -24,16 +24,16 @@ main:
     url: /talks/   
     
   # - title: "Portfolio"
-     url: /portfolio/
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
-     url: /year-archive/
+  #   url: /year-archive/
     
   # - title: "CV"
-  #  url: /cv/
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
   # - title: "Guide"
-  #  url: /markdown/
+  #   url: /markdown/
