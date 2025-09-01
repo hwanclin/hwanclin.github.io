@@ -15,13 +15,13 @@ main:
     url: /publications/
 
   - title: "Compute Code"
-    url: /compute-code"
-    
-  - title: "Talks"
-    url: /talks/    
+    url: /compute-code"   
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Talks"
+    url: /talks/   
     
   - title: "Portfolio"
     url: /portfolio/
@@ -35,5 +35,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
