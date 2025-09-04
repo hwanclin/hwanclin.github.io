@@ -1,6 +1,6 @@
 ---
 permalink: /pub-test/
-title: "Pub-Test"
+title: "Publications"
 author_profile: true
 nav: true
 nav_order: 2
