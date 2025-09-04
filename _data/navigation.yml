@@ -11,8 +11,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Pub-test"
+    url: /pub-test/
 
   - title: "Source Code"
     url: /compute-code"   
