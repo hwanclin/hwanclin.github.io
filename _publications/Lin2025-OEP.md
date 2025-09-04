@@ -1,6 +1,6 @@
 ---
 title: "A Dynamic Modeling Approach to North-South Disparities in IPR Protection"
-link: [abstract][https://doi.org/10.1093/oep/gpaf024]
+link: [abstract](https://doi.org/10.1093/oep/gpaf024)
 collection: publications
 category: manuscripts
 permalink: /publications/Lin2025-OEP
