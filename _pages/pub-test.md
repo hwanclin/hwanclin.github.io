@@ -1,6 +1,6 @@
 ---
 permalink: /pub-test/
-title: "Journal Articles"
+title: "Pub-Test"
 author_profile: true
 nav: true
 nav_order: 2
