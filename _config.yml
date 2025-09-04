@@ -256,6 +256,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
@@ -269,6 +278,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _source-code
+  - scope:
+      path: ""
+      type: source-code
     values:
       layout: single
       author_profile: true
