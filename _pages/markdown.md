@@ -17,6 +17,7 @@ redirect_from:
 * Collections of pages are .md or .html files in:
   * _research/ 
   * _publications/
+  * _source-code/
   * _portfolio/
   * _posts/
   * _teaching/
