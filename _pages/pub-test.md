@@ -2,8 +2,7 @@
 permalink: /pub-test/
 title: "Journal Articles"
 author_profile: true
-redirect_from: 
-  - /pub-test/
-  - /pub-test.html
+nav: true
+nav_order: 2
 ---
 -Lin, Hwan C. (2025)
