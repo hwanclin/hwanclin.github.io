@@ -2,7 +2,7 @@
 title: "A Dynamic Modeling Approach to North-South Disparities in IPR Protection"
 collection: publications
 category: manuscripts
-permalink: /publication/Lin2025-OEP
+permalink: /publications/Lin2025-OEP
 excerpt: 'Excerpt: "More surprisingly, the no-winner scenario may even emerge if innovation can cause creative destruction significantly."'
 date: 2025-08-08
 venue: 'Oxford Economic Papers'
