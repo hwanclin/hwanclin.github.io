@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/Lin2025-OEP
 excerpt: 'Excerpt: "More surprisingly, the no-winner scenario may even emerge if innovation can cause creative destruction significantly."'
 date: 2025-08-08
-venue: 'Oxford Economic Papers https://doi.org/10.1093/oep/gpaf024'
+venue: 'Oxford Economic Papers' https://doi.org/10.1093/oep/gpaf024
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
