@@ -12,10 +12,10 @@ main:
     url: /research/
     
   - title: "Publications"
-    url: /pub-test/
+    url: /publications/
 
   - title: "Source Code"
-    url: /compute-code"   
+    url: /source-code"   
 
   - title: "Teaching"
     url: /teaching/    
