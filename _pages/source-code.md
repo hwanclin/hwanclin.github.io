@@ -14,5 +14,3 @@ More and more economics journals have started to require authors that they shoul
   - Github: [PythonProgram_DAEs](https://github.com/hwanclin/PythonProgram_DAEs)
   - Zenodo: [PythonProgram_DAEs](https://zenodo.org/records/15233608)
   - OEP: (forthoming soon)
-
-The main purpose of the Python source code is to solve a eight-dimensional dynamical system of differential-algebraic equation (DAEs) numerically for the analysis of North-South protection of intellectual property rights (IPRs).
