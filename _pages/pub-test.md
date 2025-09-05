@@ -11,6 +11,8 @@ My publication profile of journal articles is also available in [ORCID](https://
 
 ## Journal Articles
 
-* Lin, Hwan C. (2025) "[A Dynamic Modelling to North-South Parities in IPR Protection](https://doi.org/10.1093/oep/gpaf024
+* Lin, Hwan C. (2025). "[A Dynamic Modelling to North-South Parities in IPR Protection](https://doi.org/10.1093/oep/gpaf024
 )." *Oxford Economic Papers* (forthcoming).
+* Lin, Hwan C. (2021). "[Vertical Innovation, Foreign Direct Investment and Asymmetric Imitation: A Welfare Analysis of Intellectual Property Protection](https://doi.org/10.1002/soej.12533)." *Southern Economic Journal*: 88 (2), 789-827.
+
 
