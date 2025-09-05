@@ -1,7 +1,6 @@
 ---
-permalink: /pub-test/
+permalink: /publications/
 title: "Publications"
-#link: https://doi.org/10.1093/oep/gpaf024
 author_profile: true
 nav: true
 nav_order: 2
