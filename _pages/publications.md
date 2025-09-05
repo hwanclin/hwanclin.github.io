@@ -16,6 +16,7 @@ My publication profile of journal articles is also available in [ORCID](https://
 * Lin, Hwan C. (2020). "[Amortizing Securities as a Pareto-Efficient Reward Mechanism](https://doi.org/10.1007/978-3-030-38227-8_25)." In E. Bucciarelli, SH. Chen, J. Corchado (Eds), Decision Economics: Complexity of Decisions and Decisions for Complexity. DECON 2019. Advances in Intelligent Systems and Computing, vol 1009. Springer, Cham.
 * Lin, Hwan C. (2018). "[Computing Transitional Cycles for a Deterministic Time-to-Build Growth Model](https://doi.org/10.1007/s10614-016-9633-9)." *Computational Economics*: 51 (3), 677-696.
 * Lin, Hwan C. (2018). "[Erratum to: Computing Transitional Cycles for a Deterministic Time-to-Build Growth Model](https://doi.org/10.1007/s10614-017-9710-8)." *Computational Economics*: 51 (3), 697.
+* Lin, Hwan C. & L.F. Shampine. (2018). "[R&D-based Calibrated Growth Models with Finite-Length Patents: A Novel Algorithm for Solving an Autonomous FDE System of Mixed Type](https://doi.org/10.1007/s10614-016-9597-9)." *Computational Economics*: 51 (1), 123-158.
 
 
 
