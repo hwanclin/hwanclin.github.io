@@ -6,17 +6,13 @@ nav: true
 nav_order: 1
 ---
 
-I am a computational economist, applying computational modeling to dynamic macroeconomic systems for policy analysis. My research interests often meet at the intersection of technological innovation, growth, international trade and finance, and macroeconomic dynamics. What follows is a brief description of my research in progress and my previous research's contributions to the economics literature. 
+Here, I make a narrative of my intellectual contributions to the economics literature right after a short list of ongoing research projects given below: 
 
 ## Research in Progress
 
-**<ins>Project 1</ins>: The Socially Optimal Design of Amortizing Innovation-Backed Securities**
+**<ins>Project 1</ins>: [The Socially Optimal Design of Amortizing Innovation-Backed Securities](https://github.com/hwanclin/hwanclin.github.io/blob/main/files/Project1.pdf)**
 
-This project is aimed to provide a *tax-funded public reward system* as an alternative to the world's prevalent *patent-based commerical reward system*. The proposed public reward system is funded by a non-distortionary head tax. Under this system, any successful innovation is rewarded with a novel amortizing security called "Innovation-Backed Security" (IBS) and the innovator must agree to place the innovative know-how in the public domain. The government is the IBS underwriter who guarantees a time-varying payout flow to whoever holds the amortizing security. 
 
-Note that such a security is tradeable in financial markets and its equilibrium market value is tied to the discounted present value of a stream of time-varying payouts, subject to the innovative product's time-varying market performance prior to the security's maturity date. The payout flow at  time *t* is calculated by the security's payout ratio times the innovative product's time-*t* aggregate market sales attributed to all perfectly-competitive producers who use the same innovative know-how. 
-
-In this project, I will show how to design the amortizing security's **payout ratio** and **payout term** so that the tax-funded public reward system can achieve social optimality in a continuous-time dynamic general-equilibrium model, where ongoing innovation proceeds in tandem with creative destruction. 
 
 
 **<ins>Project 2</ins>: In search of the Globally Optimal Shape of Patents for the North and South**
