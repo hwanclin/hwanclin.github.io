@@ -6,8 +6,6 @@ nav: true
 nav_order: 1
 ---
 
-This page is under construction.
-
 I am a computational economist, applying computational modeling to dynamic macroeconomic systems for policy analysis. My research interests often meet at the intersection of technological innovation, growth, international trade and finance, and macroeconomic dynamics. What follows is a brief description of my research in progress and my previous research's contributions to the economics literature. 
 
 ## Research in Progress
