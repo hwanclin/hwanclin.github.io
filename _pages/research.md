@@ -7,7 +7,7 @@ nav_order: 1
 ---
 This page is under construction.
 
-Here, I make a narrative of my intellectual contributions to the economics literature right after a short list of ongoing research projects given below: 
+Here, I make a narrative of my intellectual contributions to the economics literature right after a short list of my research in progress given below: 
 
 ## Research in Progress
 
