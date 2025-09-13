@@ -52,6 +52,9 @@ I was one of the few pioneering economists who Incorporating the particular feat
 
 In the context of intra-industry trade, I identified a new welfare-enhancing role for the policy of export subsidization and showed that coordinating bilateral export subsidies to counteract consumption distortions under monopolist competition can be both nationally and globally welfare improving. Moreover, I can compute in a general equilibrium two-country framework a structurally determined coordination ‘range’ to inform  domestic and foreign governments; see [Lin (1996)](https://doi.org/10.1080/09638199600000018).
 
+The foremost implication of my long-term research is that the world’s patents (or medical patents, in particular) should be superseded by a special class of amortizing securities coined “Innovation-Backed Securities” (IBS) that I have designed. Patents are always suboptimal, but my proposed IBS can be a socially optimal alternative.
+
+
 
 ## Referee Service upon Journal Editor's Invitation
 
