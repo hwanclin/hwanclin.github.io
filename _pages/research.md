@@ -15,7 +15,7 @@ This page summarizes my research activities in the three parts: Research in Prog
 
 ## Intellectual Contributions
 
-My academic research profile is reflected in the [publication](https://github.com/hwanclin/hwanclin.github.io/blob/main/_pages/publications.md) page. For most of my research work, I apply computational modeling to dynamic macroeconomic systems for policy analysis. My purpose is to seek ways to improve the economic well-being of humanity by means of government policies directed towards patent reform, technological innovation and diffusion, economic growth, international trade, international finance, and the distribution of economic interests between developed and developing countries.  
+My academic research profile is reflected in the [publication](https://hwanclin.github.io/publications/) page. For most of my research work, I apply computational modeling to dynamic macroeconomic systems for policy analysis. My purpose is to seek ways to improve the economic well-being of humanity by means of government policies directed towards patent reform, technological innovation and diffusion, economic growth, international trade, international finance, and the distribution of economic interests between developed and developing countries.  
 
 In my view, some of my academic research represents a trailblazing contribution to the economics literature, as summarized below:
 
