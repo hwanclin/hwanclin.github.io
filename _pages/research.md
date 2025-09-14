@@ -33,7 +33,7 @@ I innovated a special class of amortizing securities coined “Innovation-Backed
 
 ### 4. Region-specific needs and North-South protection of IPRs
 
-I and my coauthor Earl Grinols pioneered the development of a dynamic North-South model by incorporating the critical elements of region-specific needs and bidirectional R&D and overturned the once-powerful conclusion by the seminal work [Helpman (1993)](https://doi.org/10.2307/2951642); see [Grinols and Lin (2006)](https://doi.org/10.1016/j.jedc.2004.12.003). Later, my extensive work expanded the North-South policy perspective by introducing creative destruction and a better dynamic-system algorithm; see [Lin (2025)](https://doi.org/10.1093/oep/gpaf024
+I and my coauthor Earl Grinols pioneered the development of a dynamic North-South model by incorporating the critical elements of region-specific needs and bidirectional R&D and overturned the once-powerful conclusion by the seminal work [Helpman (1993)](https://doi.org/10.2307/2951642); see [Grinols and Lin (2006)](https://doi.org/10.1016/j.jedc.2004.12.003). Later, my extensive work expands the North-South policy perspective by introducing creative destruction and a better dynamic-system algorithm; see [Lin (2025)](https://doi.org/10.1093/oep/gpaf024
 ).
 
 ### 5. Finite-length patents and the dynamical system of MFDEs
