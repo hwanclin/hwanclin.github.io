@@ -27,9 +27,9 @@ I developed a stochastic model to construct the forward-rate target zone and sh
 
 I pioneered research into a novel reward mechanism coined “Intertemporal Bounty” to function as an alternative to the patent system. I simulated the net welfare gain by replacing patents with intertemporal bounties, respectively, for four selected drug sectors in the United States in [Grinols and Lin (2011)](https://doi.org/10.1016/j.jedc.2011.04.010) and for a calibrated US economy in  [Lin (2016)](https://doi.org/10.1016/j.jmacro.2016.09.007).
 
-### 3. The amortizing innovation-backed securities (IBS)
+### 3. The amortizing innovation-backed securities
 
-I innovated a special class of amortizing securities coined “Innovation-Backed Securities” (IBS) to work as a Pareto-efficient alternative to patents. Building on the idea of intertemporal bounties, the socially optimal design for IBS has been worked out in two dimensions (payout ratio vs. payout term) in [Lin (2020)](https://doi.org/10.1007/978-3-030-38227-8_25).
+I innovated a special class of amortizing securities coined “Innovation-Backed Securities” (IBS) to work as a Pareto-efficient alternative to patents. Building on the idea of intertemporal bounties, the socially optimal design for this special class of securities has been worked out in two dimensions (payout ratio vs. payout term) in [Lin (2020)](https://doi.org/10.1007/978-3-030-38227-8_25).
 
 ### 4. Region-specific needs and North-South protection of IPRs
 
