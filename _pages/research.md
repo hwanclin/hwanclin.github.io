@@ -46,7 +46,7 @@ To the best of my knowledge, I developed the first-ever dynamic three-country mo
 
 ### 7. Tax policies for R&D-based endogenous growth
 
-I was one of the few pioneering economists who Incorporated the particular features of the U.S. tax code, notably corporate interest deductions and R&D expensing, into [Romer](https://www.jstor.org/stable/2937632?seq=1)'s R&D-based endogenous growth model; see [Lin and Benjamin (1999)](https://doi.org/10.1016/S0164-0704(99)00112-3). This work obtains a surprising finding that a pro-growth tax system requires a lower income tax rate for **non-innovative** firms.
+I was one of the few pioneering economists in the 1990s who Incorporated the particular features of the U.S. tax code, notably corporate interest deductions and R&D expensing, into [Romer](https://www.jstor.org/stable/2937632?seq=1)'s R&D-based endogenous growth model; see [Lin and Benjamin (1999)](https://doi.org/10.1016/S0164-0704(99)00112-3). This work obtains a surprising finding that a pro-growth tax system requires a lower income tax rate for **non-innovative** firms.
 
 ### 8. Monopolistic competition, intra-industry trade, and export subsidies
 
