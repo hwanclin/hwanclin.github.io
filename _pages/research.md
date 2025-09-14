@@ -64,8 +64,6 @@ The following journals that I had ever served as a referee are arranged alphabet
 - Asian Journal of Economics
 - Bulletin of Economic Research
 - Computational Economics
-- Review of Economic Studies
-- Journal of Economic Theory
 - Economic Issues
 - Economic Modelling
 - European Economic Review
@@ -73,12 +71,14 @@ The following journals that I had ever served as a referee are arranged alphabet
 - International Economic Journal
 - International Review of Economics and Finance
 - International Symposia in Economic Theory and Econometrics
-- Journal of Economics and Business
 - Journal of Economic Integration
+- Journal of Economic Theory
+- Journal of Economics and Business
 - Journal of International Money and Finance
 - Journal of International Trade & Economic Development
 - Journal of Macroeconomics
 - Macroeconomic Dynamics
+- Review of Economic Studies
 - Southern Economic Journal 
 
 
