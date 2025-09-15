@@ -21,4 +21,10 @@ nav_order: 4
 - 2016:	"Computing Transitional Cycles for a Deterministic Time-to-Build Growth Model." *22nd International Conference Computing in Economics and Finance* (CEF 2016, Society for Computational Economics), Bordeaux, France, June 26-28, 2016.
 	
 - 2015: "Finite-Length Patents and Functional Differential Equations in a Non-scale R&D-based Growth Model."
-*21st International Conference Computing in Economics and Finance* (CEF 2015, Society for Computational Economics), Taipei, Taiwan, June 20-22, 2015. 
+*21st International Conference Computing in Economics and Finance* (CEF 2015, Society for Computational Economics), Taipei, Taiwan, June 20-22, 2015.
+
+- 2013:	"Switching from Patents to an Intertemporal Bounty: Transitional Dynamics and Welfare 			Evaluation." *17th Annual International Conference on Macroeconomic Analysis and International Finance* (ICMAIF), Department of Economics, University of Crete, Rethymno, Greece, May 30 – June 1, 2013. [Chair and Discussant at Parallel Session 2D: Economic Growth and Development I.]
+
+- 2012:	"Establishing an Intertemporal Bounty System for the Formation of a Global Green Economy." *Global Sustainable Finance Conference 2012*, Karlsruhe, Germany, July 5-6, 2012. [The conference was under the auspices of The World Federation of Development Financing Institutes, and endorsed by United Nations Environment Program Finance Initiative (UNEPFI).]
+
+- 2011:	"Innovation, Creative Destruction, and Optimal Patent Life." *17th International Conference on Computing in Economics and Finance* (CEF 2011, TSociety for Computational Economics), San Francisco, June 29 – July 1, 2011.
