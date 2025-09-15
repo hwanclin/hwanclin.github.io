@@ -14,7 +14,7 @@ nav_order: 4
 
 - 2019: "Amortizing Securities as a Pareto-Efficient Reward Mechanism." *International Conference on Decision Economics* (DECON 2019), Avila, Spain, June 26-28, 2019.
   
-- 2018: "Vertical Innovation, Foreign Direct Investment and Asymmetric Imitation: A Welfare Analysis of Intellectual Property Protection. *24th International Conference Computing in Economics and Finance* (CEF 2018, Society for Computational Economics), Milan, Italy, June 18-21, 2018. [Chair of Session G05: Economics of Innovation at the conference]
+- 2018: "Vertical Innovation, Foreign Direct Investment and Asymmetric Imitation: A Welfare Analysis of Intellectual Property Protection. *24th International Conference Computing in Economics and Finance* (CEF 2018, Society for Computational Economics), Milan, Italy, June 18-21, 2018. 
 
 - 2017: "North-South Harmonization of Intellectual Property Rights: Who Wins, Who Loses?" *27th Annual Conference on Leading Issues in Trade and Finance* (International Trade and Finance Association ), Poznan, Poland, May 3-June 3, 2017. 
 
@@ -23,7 +23,7 @@ nav_order: 4
 - 2015: "Finite-Length Patents and Functional Differential Equations in a Non-scale R&D-based Growth Model."
 *21st International Conference Computing in Economics and Finance* (CEF 2015, Society for Computational Economics), Taipei, Taiwan, June 20-22, 2015.
 
-- 2013:	"Switching from Patents to an Intertemporal Bounty: Transitional Dynamics and Welfare 			Evaluation." *17th Annual International Conference on Macroeconomic Analysis and International Finance* (ICMAIF), Department of Economics, University of Crete, Rethymno, Greece, May 30 – June 1, 2013. [Chair and Discussant at Parallel Session 2D: Economic Growth and Development I.]
+- 2013:	"Switching from Patents to an Intertemporal Bounty: Transitional Dynamics and Welfare 			Evaluation." *17th Annual International Conference on Macroeconomic Analysis and International Finance* (ICMAIF), Department of Economics, University of Crete, Rethymno, Greece, May 30 – June 1, 2013. 
 
 - 2012:	"Establishing an Intertemporal Bounty System for the Formation of a Global Green Economy." *Global Sustainable Finance Conference 2012*, Karlsruhe, Germany, July 5-6, 2012. [The conference was under the auspices of The World Federation of Development Financing Institutes, and endorsed by United Nations Environment Program Finance Initiative (UNEPFI).]
 
