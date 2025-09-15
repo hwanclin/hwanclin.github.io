@@ -14,7 +14,7 @@ Teaching is a critical activity for enhancing a country’s education system and
 
 I taught courses at the graduate and undergraduate levels on UNCC's main campus and center city campus.  Students who took the graduate-level courses I taught in rcent years came mainly from M.S. in economics, M.S. in mathematical finance, and PhD in finance. I also participated in UNCC's Project Mosaic to promote Python programming to graduate and undergraduate students. Other than classroom teaching, I participated in the establishment of the University's Master of Science in Mathematical Finance program, which made its debut in the fall 2003 semester. Today, this graduate program has grown into a prestigious one in the United States.
 
-# Graduate-level courses taught at UNCC
+### Graduate-level courses taught at UNCC
 
 - Applied Computational Economics
 - Numerical Methods for Financial Derivatives
@@ -22,7 +22,7 @@ I taught courses at the graduate and undergraduate levels on UNCC's main campus 
 - Financial Economic Theory
 - Advanced Microeconomic Theory
   
-# Undergraduate-level courses taught at UNCC
+### Undergraduate-level courses taught at UNCC
 
 - Economics of Growth and Development
 - Economics of International Finance
@@ -31,7 +31,7 @@ I taught courses at the graduate and undergraduate levels on UNCC's main campus 
 - International Business Economics
   
 
-# Project Mosaic at UNCC
+### Project Mosaic at UNCC
 
 - Python Workshop I - Introduction to Python
 - Python Workshop II - Python for Data Analysis
