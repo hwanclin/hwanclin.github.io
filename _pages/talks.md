@@ -27,4 +27,7 @@ nav_order: 4
 
 - 2012:	"Establishing an Intertemporal Bounty System for the Formation of a Global Green Economy." *Global Sustainable Finance Conference 2012*, Karlsruhe, Germany, July 5-6, 2012. [The conference was under the auspices of The World Federation of Development Financing Institutes, and endorsed by United Nations Environment Program Finance Initiative (UNEPFI).]
 
-- 2011:	"Innovation, Creative Destruction, and Optimal Patent Life." *17th International Conference on Computing in Economics and Finance* (CEF 2011, Society for Computational Economics), San Francisco, June 29 – July 1, 2011.
+- 2011:	"Innovation, Creative Destruction, and Optimal Patent Life." *17th International Conference on Computing in Economics and Finance* (CEF 2011, Society for Computational Economics), San Francisco, June 29 – July 1, 2011. [This conference was sponsored by the Federal Reserve Bank of San Francisco.]
+
+- 2010:	"Patent Replacement and Welfare Gains" *Workshop in Honor of Stephen J. Turnovsky*, May 20 – 22, 2010, Institute for Advanced Studies (IHS), Vienna, Austria. [This workshop was sponsored by Institute for Advanced Studies (IHS), Vienna; Society for Computational Economics (SCE); and Austrian Federal Ministry of Science.
+  
