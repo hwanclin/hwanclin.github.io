@@ -13,7 +13,7 @@ This page summarizes my research activities in the three parts: Research in Prog
 
 **<ins>Project 2</ins>**: [In search of the Globally Optimal Shape of Patents for the North and South](https://github.com/hwanclin/hwanclin.github.io/blob/main/files/Project2.pdf)
 
-**<ins>Project 3</ins>**: Deep Learning and Macroeconomic Dynamics
+**<ins>Project 3</ins>**: Deep Learning, Functional Differential Equations, and Macroeconomic Dynamics
 ## Intellectual Contributions
 
 My academic research profile is reflected in the [publication](https://hwanclin.github.io/publications/) page. For most of my research work, I apply computational modeling to dynamic macroeconomic systems for policy analysis. My purpose is to seek ways to improve the economic well-being of humanity by means of government policies directed towards patent reform, technological innovation and diffusion, economic growth, international trade, international finance, and the distribution of economic interests between developed and developing countries.  
