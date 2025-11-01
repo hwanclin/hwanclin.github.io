@@ -13,4 +13,4 @@ More and more economics journals have started to require authors that they shoul
 * Python source code for [Lin (2025)](https://doi.org/10.1093/oep/gpaf024) published in *Oxford Economic Papers* is available in each of the three repositories:
   - Github: [PythonProgram_DAEs](https://github.com/hwanclin/PythonProgram_DAEs)
   - Zenodo: [PythonProgram_DAEs](https://zenodo.org/records/15233608)
-  - OEP: (forthoming soon)
+  - OEP: [Supplemental data](https://doi.org/10.1093/oep/gpaf024)
