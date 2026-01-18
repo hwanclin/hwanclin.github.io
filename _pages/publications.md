@@ -11,8 +11,8 @@ My publication profile of journal articles is also available in [ORCID](https://
 
 ## Journal Articles
 
-* Lin, Hwan C. (2025). "[A Dynamic Modelling to North-South Parities in IPR Protection](https://doi.org/10.1093/oep/gpaf024
-)." *Oxford Economic Papers* (https://doi.org/10.1093/oep/gpaf024).
+* Lin, Hwan C. (2026). "[A Dynamic Modelling to North-South Parities in IPR Protection](https://doi.org/10.1093/oep/gpaf024
+)." *Oxford Economic Papers*: 78, 136-152  (https://doi.org/10.1093/oep/gpaf024).
 * Lin, Hwan C. (2021). "[Vertical Innovation, Foreign Direct Investment and Asymmetric Imitation: A Welfare Analysis of Intellectual Property Protection](https://doi.org/10.1002/soej.12533)." *Southern Economic Journal*: 88 (2), 789-827.
 * Lin, Hwan C. (2020). "[Amortizing Securities as a Pareto-Efficient Reward Mechanism](https://doi.org/10.1007/978-3-030-38227-8_25)." In E. Bucciarelli, SH. Chen, J. Corchado (Eds), Decision Economics: Complexity of Decisions and Decisions for Complexity. DECON 2019. Advances in Intelligent Systems and Computing, vol 1009. Springer, Cham.
 * Lin, Hwan C. (2018). "[Computing Transitional Cycles for a Deterministic Time-to-Build Growth Model](https://doi.org/10.1007/s10614-016-9633-9)." *Computational Economics*: 51 (3), 677-696.
