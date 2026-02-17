@@ -10,7 +10,7 @@ More and more economics journals have started to require authors that they shoul
 
 ## Source Code for Published Journal Articles
 
-* Python source code for solving differential-algebraic equations (DAEs) in [Lin (2025)](https://doi.org/10.1093/oep/gpaf024) published in *Oxford Economic Papers* is available in each of the three repositories:
+* Python source code for solving differential-algebraic equations (DAEs) in [Lin (2026)](https://doi.org/10.1093/oep/gpaf024) published in *Oxford Economic Papers* is available in each of the three repositories:
   - Github: [PythonProgram_DAEs](https://github.com/hwanclin/PythonProgram_DAEs)
   - Zenodo: [PythonProgram_DAEs](https://zenodo.org/records/15233608)
   - OEP: [Supplemental data](https://doi.org/10.1093/oep/gpaf024)
