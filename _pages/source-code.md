@@ -15,5 +15,6 @@ More and more economics journals have started to require authors that they shoul
   - Zenodo: [PythonProgram_DAEs](https://zenodo.org/records/15233608)
   - OEP: [Supplemental data](https://doi.org/10.1093/oep/gpaf024)
 
-* Python code for using the idea of homotopy continuation to solve mixed-type functional differential equations (MFDEs) in [Lin (2018)](https://doi.org/10.1007/s10614-016-9633-9) published in *Computational Economics* is available in the following repository:
+* Python code for using the idea of homotopy continuation to solve mixed-type functional differential equations (MFDEs) in [Lin (2018)](https://doi.org/10.1007/s10614-016-9633-9) published in *Computational Economics* is available in the following repositories:
   - Github: [Homotopy_MFDEs](https://github.com/hwanclin/Homotopy_MFDEs)
+  - Zenodo: [Homotopy_MFDEs](https://doi.org/10.5281/zenodo.18673015)
